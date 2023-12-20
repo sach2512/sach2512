@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sach2512
-- 👀 I’m interested in webdevlopment
-- 🌱 I’m currently learning backend
+
 - 
 
 <!---
