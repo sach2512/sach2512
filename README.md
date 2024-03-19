@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💼 Experience: I bring over 15 months of valuable experience from my time at Tatconsultance Services. During my tenure, I worked on various projects where I refined my skills in web development, gained exposure to client interactions, and collaborated with multidisciplinary teams to deliver successful solutions.</p>
+<p align="left">💼 Experience: I bring over 15 months of valuable experience from   Tatconsultancy Services. During my tenure, I worked on various projects where I refined my skills in web development, gained exposure to client interactions, and collaborated with multidisciplinary teams to deliver successful solutions.</p>
 
 ###
 
