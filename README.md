@@ -5,7 +5,7 @@
 
 <!-- -👨‍💻 All of my projects are available at [https://sachin-portfolio-noit.onrender.com](https://sachin-portfolio-noit.onrender.com) -->
 
-- 💬 Ask me about **c#,react,javascript,asp.net,sql**
+<!-- - 💬 Ask me about **c#,react,javascript,asp.net,sql** -->
 
 - 📫 How to reach me **eswar.sai.9976@gmail.com
 **
