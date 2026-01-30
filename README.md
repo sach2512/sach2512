@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **c#,react,javascript,asp.net,sql**
 
-- 📫 How to reach me **sachinjaing25@gmail.com**
+- 📫 How to reach me **eswar.sai.9976@gmail.com
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
